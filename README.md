@@ -8,9 +8,10 @@ The following three models have been trained.
 # 1.UNET
 ![UNET](Images/UNET.PNG)
 # 2.SEGNET
-
+![SEGNET](Images/SEGNET.PNG)
 # 3.Deep Lab V3 Plus
-
+![DeepLabv3Plus](Images/DeepLabV3Plus.PNG)
+![DeepLabv3Plus](Images/DeepLabV3Plus .PNG)
 # Quantitative Results
 The results are shown below
    # Training
