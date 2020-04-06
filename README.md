@@ -36,11 +36,11 @@ The results are shown below
 
 # Qualitative Results
 # 1.UNET
-![UNET](Results/UNET/Testing Image With Ground Truth and Predicted.PNG)
+![u](Results/UNET/Testing Image With Ground Truth and Predicted.PNG)
 # 2.SEGNET
-![SEGNET](Results/SEGNET/Testing Image With Ground Truth and Predicted.PNG)
+![S](Results/SEGNET/Testing Image With Ground Truth and Predicted.PNG)
 # 3.Deep Lab V3 Plus
-![DeepLabv3Plus](Results/DeepLabV3plus/Testing Image With Ground Truth and Predicted.PNG)
+![D](Results/DeepLabV3plus/Testing Image With Ground Truth and Predicted.PNG)
 
 # Folder Structure
 ├── _Code_     
