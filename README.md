@@ -35,13 +35,21 @@ The results are shown below
 | DeepLabV3Plus | 0.2250 | 0.9028 | 0.9581 | 0.7663
 
 # Qualitative Results
-Some predicted results are shown below and graphs and other results can be seen on this  [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Results)
+Some predicted results are shown below. Graphs and other results can be seen on this  [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Results)
 # 1.UNET
 ![test1](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/UNET/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
 # 2.SEGNET
 ![test2](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/SEGNET/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
 # 3.Deep Lab V3 Plus
 ![test3](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
+
+# Pre-processing
+This datset contains of Tissue Image and its corrresponding Groundtruth Mask of 1000x1000 resolution. To load these images with more than batch size of 2 is difficult to the GPU. To overcome this problem, patches of 256x256 are generaated for every Tissue Image and its corrresponding Groundtruth Mask. To create patches of your own choice you can use the file in the  [link](https://github.com/arslanamin14/Image-Segmentation/blob/master/Patches/Patch.ipynb)
+
+# Requirements
+Main packages required are:
+Keras 2.2.3
+Tensorflow 1.15.0
 
 # Folder Structure
 ├── _Code_     
