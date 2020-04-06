@@ -16,6 +16,7 @@ The following three models have been trained.
 # Deep Lab V3 Plus
 
 # Quantitative Results
+The results are shown below
    # Training
 | Model | Loss | Accuracy | F1 Score | Dice Score |
 | ----- | ---- | ---- | ---- | ---- |
