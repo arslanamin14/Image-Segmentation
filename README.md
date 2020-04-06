@@ -35,13 +35,13 @@ The results are shown below
 | DeepLabV3Plus | 0.2250 | 0.9028 | 0.9581 | 0.7663
 
 # Qualitative Results
-The results are shown below
+Some predicted results are shown below and graphs and other results can be seen on this  [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Results)
 # 1.UNET
 ![test1](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/UNET/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
 # 2.SEGNET
-![test2](Results/SEGNET/Testing Image With Ground Truth and Predicted.PNG)
+![test2](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/SEGNET/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
 # 3.Deep Lab V3 Plus
-![test3](Results/DeepLabV3plus/Testing Image With Ground Truth and Predicted.PNG)
+![test3](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
 
 # Folder Structure
 ├── _Code_     
