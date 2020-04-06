@@ -8,3 +8,9 @@ The following three models have been trained.
 1.UNET  
 2.SEGNET  
 3.DeepLabV3Plus
+
+# UNET
+
+# SEGNET
+
+# Deep Lab V3 Plus
