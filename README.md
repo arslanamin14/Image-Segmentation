@@ -16,6 +16,20 @@ The following three models have been trained.
 # Deep Lab V3 Plus
 
 # Quantitative Results
+   # Training
+| Model | Loss | Accuracy | F1 Score | Dice Score |
+| ----- | ---- | ---- | ---- | ---- |
+| Unet | 0.253 | 0.878 | 0.635 | 0.730 
+| Segnet | 0.229 | 0.903 | 0.767 | 0.825 
+| DeeplabV3+ | 0.102 | 0.962 | 0.917 | 0.932
+  # Validation
+| Model | Loss | Accuracy | F1 Score | Dice Score |
+| ----- | ---- | ---- | ---- | ---- |
+| Unet | 0.253 | 0.878 | 0.635 | 0.730 
+| Segnet | 0.229 | 0.903 | 0.767 | 0.825 
+| DeeplabV3+ | 0.102 | 0.962 | 0.917 | 0.932
+
+ # Testing 
 | Model | Loss | Accuracy | F1 Score | Dice Score |
 | ----- | ---- | ---- | ---- | ---- |
 | Unet | 0.253 | 0.878 | 0.635 | 0.730 
