@@ -34,6 +34,14 @@ The results are shown below
 | SEGNET | 0.2250 | 0.9028 | 0.9581 | 0.7663 
 | DeepLabV3Plus | 0.2250 | 0.9028 | 0.9581 | 0.7663
 
+# Qualitative Results
+# 1.UNET
+![UNET](Results/UNET/Testing Image With Ground Truth and Predicted.PNG)
+# 2.SEGNET
+![SEGNET](Results/SEGNET/Testing Image With Ground Truth and Predicted.PNG)
+# 3.Deep Lab V3 Plus
+![DeepLabv3Plus](Results/DeepLabV3plus/Testing Image With Ground Truth and Predicted.PNG)
+
 # Folder Structure
 ├── _Code_     
 │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── UNET.ipynb  
