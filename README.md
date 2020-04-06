@@ -35,12 +35,13 @@ The results are shown below
 | DeepLabV3Plus | 0.2250 | 0.9028 | 0.9581 | 0.7663
 
 # Qualitative Results
+The results are shown below
 # 1.UNET
-![u](Results/UNET/Testing Image With Ground Truth and Predicted.PNG)
+![test1](Results/UNET/Testing Image With Ground Truth and Predicted.PNG)
 # 2.SEGNET
-![S](Results/SEGNET/Testing Image With Ground Truth and Predicted.PNG)
+![test2](Results/SEGNET/Testing Image With Ground Truth and Predicted.PNG)
 # 3.Deep Lab V3 Plus
-![D](Results/DeepLabV3plus/Testing Image With Ground Truth and Predicted.PNG)
+![test3](Results/DeepLabV3plus/Testing Image With Ground Truth and Predicted.PNG)
 
 # Folder Structure
 ├── _Code_     
