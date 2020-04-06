@@ -5,15 +5,11 @@ The dataset used for Semantic Segmentation is  Monuseg dataset which contains mu
 
 # Models
 The following three models have been trained.  
-1.UNET  
-2.SEGNET  
-3.DeepLabV3Plus
+# 1.UNET
+![UNET](Images/UNET.PNG)
+# 2.SEGNET
 
-# UNET
-
-# SEGNET
-
-# Deep Lab V3 Plus
+# 3.Deep Lab V3 Plus
 
 # Quantitative Results
 The results are shown below
