@@ -11,7 +11,7 @@ The following three models have been trained.
 ![SEGNET](Images/SEGNET.PNG)
 # 3.Deep Lab V3 Plus
 ![DeepLabv3Plus](Images/DeepLabV3Plus.PNG)
-![DeepLabv3P](Images/DeepLabV3Plus .PNG)
+![DeepLabv3+](Images/DeepLabV3+.PNG)
 # Quantitative Results
 The results are shown below
    # Training
