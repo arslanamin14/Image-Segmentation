@@ -19,22 +19,22 @@ The following three models have been trained.
    # Training
 | Model | Loss | Accuracy | F1 Score | Dice Score |
 | ----- | ---- | ---- | ---- | ---- |
-| Unet | 0.253 | 0.878 | 0.635 | 0.730 
-| Segnet | 0.229 | 0.903 | 0.767 | 0.825 
-| DeeplabV3+ | 0.102 | 0.962 | 0.917 | 0.932
+| UNET | 0.0869 | 0.9633 | 0.9328 | 0.9848 
+| SEGNET | 0.2399 | 0.8965 | 0.8085 | 0.9572 
+| DeepLabV3Plus | 0.0455 | 0.9806 | 0.9645 | 0.9919
   # Validation
 | Model | Loss | Accuracy | F1 Score | Dice Score |
 | ----- | ---- | ---- | ---- | ---- |
-| Unet | 0.253 | 0.878 | 0.635 | 0.730 
-| Segnet | 0.229 | 0.903 | 0.767 | 0.825 
-| DeeplabV3+ | 0.102 | 0.962 | 0.917 | 0.932
+| UNET | 0.1100 | 0.9555 | 0.9216 | 0.9809 
+| SEGNET | 0.2431 | 0.8946 | 0.8090 | 0.9560 
+| DeepLabV3Plus | 0.1035 | 0.9635 | 0.9347 | 0.9847
 
  # Testing 
 | Model | Loss | Accuracy | F1 Score | Dice Score |
 | ----- | ---- | ---- | ---- | ---- |
-| Unet | 0.253 | 0.878 | 0.635 | 0.730 
-| Segnet | 0.229 | 0.903 | 0.767 | 0.825 
-| DeeplabV3+ | 0.102 | 0.962 | 0.917 | 0.932
+| UNET | 0.2981 | 0.9054 | 0.7715 | 0.9587 
+| SEGNET | 0.2250 | 0.9028 | 0.9581 | 0.7663 
+| DeepLabV3Plus | 0.2250 | 0.9028 | 0.9581 | 0.7663
 
 # Folder Structure
 ├── _Code_     
