@@ -14,3 +14,20 @@ The following three models have been trained.
 # SEGNET
 
 # Deep Lab V3 Plus
+
+# Quantitative Results
+| Model | Loss | Accuracy | F1 Score | Dice Score |
+| ----- | ---- | ---- | ---- | ---- |
+| Unet | 0.253 | 0.878 | 0.635 | 0.730 
+| Segnet | 0.229 | 0.903 | 0.767 | 0.825 
+| DeeplabV3+ | 0.102 | 0.962 | 0.917 | 0.932
+
+# Folder Structure
+├── _Code_     
+│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── UNET.ipynb  
+│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Segnet.ipynb    
+│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── DeepLabv3plus.ipynb    
+├── _Model_    
+│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── model-unet.h5  
+│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── model-Segnet.h5    
+│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── model-deeplabv3plus.h5
