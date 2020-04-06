@@ -67,13 +67,13 @@ For testing the model with pretrained weights these colab notebooks can be used 
 The model summaries are here [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Model%20Summary)
 
 # Folders
-├── _Code_ It contains the Colab Notebooks for Training and Testing the model  
-├── _Images_ It contains the Network Diagrams  
-├── _Model Summary_ It contains the model summaries  
-├── _Models_ It contains the models .py used for testing the model by using pretrained wieghts  
-├── _Patches_ It contains the Colab Notebook te create patches  
-├── _Results_ It contains the results of models  
-├── _Test_ It contains the Colab Notebooks for testing the models by using pretrained weights   
-├── _Train_ It contains the Colab Notebooks for training the models  
-├── _Trained Model Weights_ It contains the pre-trained model weights
+├── _Code_                      It contains the Colab Notebooks for Training and Testing the model  
+├── _Images_                    It contains the Network Diagrams  
+├── _Model Summary_             It contains the model summaries  
+├── _Models_                    It contains the models .py used for testing the model by using pretrained wieghts  
+├── _Patches_                   It contains the Colab Notebook te create patches  
+├── _Results_                   It contains the results of models  
+├── _Test_                      It contains the Colab Notebooks for testing the models by using pretrained weights   
+├── _Train_                     It contains the Colab Notebooks for training the models  
+├── _Trained Model Weights_     It contains the pre-trained model weights
 
