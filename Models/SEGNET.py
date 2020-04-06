@@ -13,7 +13,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 plt.style.use("ggplot")
-%matplotlib inline
 from tqdm import tqdm_notebook, tnrange
 from itertools import chain
 from skimage.io import imread, imshow, concatenate_images
