@@ -37,7 +37,7 @@ The results are shown below
 # Qualitative Results
 The results are shown below
 # 1.UNET
-![test1](Results/UNET/Testing Image With Ground Truth and Predicted.PNG)
+![test1](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/UNET/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
 # 2.SEGNET
 ![test2](Results/SEGNET/Testing Image With Ground Truth and Predicted.PNG)
 # 3.Deep Lab V3 Plus
