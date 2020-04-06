@@ -29,11 +29,15 @@ from keras.layers.merge import concatenate, add
 from keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 from keras.optimizers import Adam
 from keras.preprocessing.image import ImageDataGenerator, array_to_img, img_to_array, load_img
+import keras
+from keras.layers import Layer, ZeroPadding2D, Cropping2D
+from tensorflow.keras import backend as K
 from keras.layers.normalization import BatchNormalization
 from keras.layers.convolutional import Conv2D
 from keras.layers import Input
 from keras.models import Model
 from keras.layers import Layer
+
 class MaxPooling2DWithIndices(Layer):
     def __init__(self, pool_size, strides, padding='SAME', **kwargs):
         super(MaxPooling2DWithIndices, self).__init__(**kwargs)
