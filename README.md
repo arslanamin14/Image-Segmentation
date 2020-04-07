@@ -68,7 +68,7 @@ The model summaries are here [link](https://github.com/arslanamin14/Image-Segmen
 
 # Folders
 ├── _Code_     
-│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the Colab Notebooks for Training and Testing the model  
+│ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the Colab Notebooks of model   
 ├── _Images_       
 │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the Network Diagrams    
 ├── _Model Summary_  
