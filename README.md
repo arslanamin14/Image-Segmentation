@@ -22,7 +22,7 @@ Semantic segmentation is a computer vision technique that enables computers to d
 │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──It contains the pre-trained model weights
 
 # Dataset
-The dataset used for Semantic Segmentation is  Monuseg dataset which contains multi organ tissue images with the ground truth segmentation masks. The dataset used for training the and testing the model can be downloaded from this [link](https://drive.google.com/open?id=1LEn2IXZkxLPRUd2ydbL_ZvXR5Yw5PE64). of google drive and information about dataset is available on this [link](https://monuseg.grand-challenge.org/Data/).
+The dataset used for Semantic Segmentation is  Monuseg dataset which contains multi organ tissue images with the ground truth segmentation masks. The dataset used for training the and testing the model can be downloaded from this [link](https://github.com/nauyan/Segmentation/blob/master/Datasets/MonuSeg-20200319T073151Z-001.zip) and information about dataset is available on this [link](https://monuseg.grand-challenge.org/Data/).
 
 # Pre-processing
 This datset contains of Tissue Image and its corrresponding Groundtruth Mask of 1000x1000 resolution. To load these images with more than batch size of 2 is difficult to the GPU. To overcome this problem, patches of 256x256 are generaated for every Tissue Image and its corrresponding Groundtruth Mask. To create patches of your own choice you can use the file in the  [link](https://github.com/arslanamin14/Image-Segmentation/blob/master/Patches/Patch.ipynb)
