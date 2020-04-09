@@ -32,18 +32,7 @@ Keras 2.x
 Python 3.x  
 Tensorflow 1.x
 
-# Colab Notebooks
-The colab Notebooks are used for training and testing the model [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Code)
-# Pretrained Model Weights
-Pre-Trained model weights are available here [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Trained%20Model%20Weights)
 
-# Training the Model
- To train the model these colab notebooks will be used [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Train)
-
-# Testing the Model
-For testing the model with pretrained weights these colab notebooks can be used  [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Test)
-# Model Summaries
-The model summaries are here [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Model%20Summary)
 # Models
 The following three models have been trained.  
 # 1.UNET
