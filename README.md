@@ -65,7 +65,7 @@ The results are shown below
 | DeepLabV3Plus | 0.2250 | 0.9028 | 0.9581 | 0.7663
 
 # Qualitative Results
-Some predicted results are shown below. Graphs and other results can be seen on this  [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Results)
+Some predicted results are shown below.
 # 1.UNET
 ### Graphs
 
@@ -96,11 +96,3 @@ F1 Score             |  Dice Coefficient
 ![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Graph%20between%20Training%20and%20Validation%20F1%20Score.PNG)  |  ![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Graph%20between%20Training%20and%20Validation%20Dice.PNG)
 ### Result
 ![test3](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
-
-
-
-
-
-
-
-
