@@ -98,6 +98,14 @@ F1 Score             |  Dice Coefficient
 ### Result
 ![test2](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/SEGNET/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
 # 3.Deep Lab V3 Plus
+### Graphs
+### Learning Curves
+Accuracy             |  Loss
+:-------------------------:|:-------------------------:
+![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Graph%20between%20Training%20and%20Validation%20Accuracy.PNG)  |  ![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Graph%20between%20Training%20and%20Validation%20Loss.PNG)
+F1 Score             |  Dice Coefficient
+![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Graph%20between%20Training%20and%20Validation%20F1%20Score.PNG)  |  ![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Graph%20between%20Training%20and%20Validation%20Dice.PNG)
+### Result
 ![test3](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/DeepLabV3plus/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
 
 
