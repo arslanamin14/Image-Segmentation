@@ -38,10 +38,12 @@ The results are shown below
 Some predicted results are shown below. Graphs and other results can be seen on this  [link](https://github.com/arslanamin14/Image-Segmentation/tree/master/Results)
 # 1.UNET
 ### Graphs
+
 Accuracy             |  Loss
 :-------------------------:|:-------------------------:
 ![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/UNET/Graph%20between%20Training%20and%20Validation%20Accuracy.PNG)  |  ![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/UNET/Graph%20between%20Training%20and%20Validation%20Loss.PNG)
 F1 Score             |  Dice Coefficient
+:-------------------------:|:-------------------------:
 ![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/UNET/Graph%20between%20Training%20and%20Validation%20F1%20Score.PNG)  |  ![](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/UNET/Graph%20between%20Training%20and%20Validation%20Dice.PNG)
 ### Result
 ![test1](https://github.com/arslanamin14/Image-Segmentation/blob/master/Results/UNET/Testing%20Image%20With%20Ground%20Truth%20and%20Predicted.PNG)
